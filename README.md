@@ -1,12 +1,12 @@
 
 ## Hi, I'm Felipe
 
-I’m an engineering student at Duke majoring in Financial Engineering.
+I’m an engineering student at Duke, all the way from Colombia to North Carolina.
 
 ### 🔬 What I'm Working On
-- **💡[StateDynamics Lab](LINK_HERE)** — a research project exploring dynamic systems, reinforcement learning, and Bellman-based decision processes. Current focus: modeling corporate financial health as a state-space system and studying optimal interventions using stochastic control, chess analogies, and simulations under uncertainty.
-- **📐Research/Teacher Assistant for Dr. Henri P. Gavin** — translating his MATLAB optimization and uncertainty-modeling library into a modern Python package for CEE251L. Includes custom-parametrized probability distribution modules, stochastic simulation routines, and classical optimization algorithms of his original code **(LINK_HERE)**.
-- **🌐 Open to collaborating** on research and experimental projects that blend theory with real-world systems!
+- **💡[StateDynamics Lab](LINK_HERE)** — a research project exploring dynamic systems and Bellman-based reinforcement learning, to integrate optimal financial decision-making within a stochastic control system.
+- **📐Research/Teacher Assistant for Dr. Henri P. Gavin** — helping translate his MATLAB optimization and uncertainty-modeling library into a modern Python package for CEE251L. Includes custom-parametrized probability distribution modules, stochastic simulation routines, and classical optimization algorithms **[Multivarious](LINK_HERE)**.
+- **🌐 Open to collaborating** on projects that apply theory into real-world systems!
 
 
 <!--
