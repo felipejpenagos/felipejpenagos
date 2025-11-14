@@ -5,7 +5,7 @@ My name is Felipe, and I'm an engineering student at Duke– all the way from Co
 
 ### 🔬 What I'm Currently Working On
 - **💡 I'm pursuing a project called [StateDynamics Lab](LINK_HERE)**, aiming to leverage probability theory and reinforcement learning to integrate optimal financial decision-making within a stochastic control system.
-- **🧮 Research Assistant** — helping translate Dr. Henri P. Gavin's MATLAB optimization and uncertainty-modeling library into a modern Python package for CEE251L. **[Multivarious](LINK_HERE)**.
+- **🧮 Research Assistant** — helping translate Dr. Henri P. Gavin's MATLAB optimization and uncertainty-modeling library into a modern Python package for CEE251L,  **[Multivarious](LINK_HERE)**.
 - **🌐 Open to collaborating** on projects that apply theory into real-world applications,
   - reach me at felipejpenagos@gmail.com
 
