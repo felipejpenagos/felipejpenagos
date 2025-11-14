@@ -6,7 +6,7 @@ I’m an engineering student at Duke, all the way from Colombia to North Carolin
 ### 🔬 What I'm Currently Working On
 - **💡[StateDynamics Lab](LINK_HERE)** — a research project leveraging probability theory and reinforcement learning to integrate optimal financial decision-making within a stochastic control system.
 - **📐Research Assistant** — helping translate Dr. Henri P. Gavin's MATLAB optimization and uncertainty-modeling library into a modern Python package for CEE251L. **[Multivarious](LINK_HERE)**.
-- **🌐 Open to collaborating** on projects that apply theory into real-world systems!
+- **🌐 Open to collaborating** on projects that apply theory into real-world applications!
 
 
 <!--
