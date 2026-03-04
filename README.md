@@ -7,8 +7,7 @@ My name is Felipe, I'm an interdisciplinary engineering and math student at Duke
 - **🧮 Student Researcher** — contributing to the Python redevelopment of Dr. Henri P. Gavin’s stochastic optimization and statistical analysis library for CEE251L. Check it out here:  **[Multivarious](https://github.com/hpgavin/multivarious)**.
 - 💡 Dynamics Project — exploring financial modeling and decision-making as a dynamic control system, integrating machine learning, stochastic processes, and operations research to define optimal policies.
 
-**🌐 Open to collaborating** on projects that apply theory into real-world challenges,
-    - reach me at felipejpenagos@gmail.com
+**🌐 Open to collaborating** on projects that apply theory into real-world challenges. Reach me at felipejpenagos@gmail.com
 
 
 <!--
