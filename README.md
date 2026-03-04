@@ -1,7 +1,7 @@
 
 ## Hi there 👋, 
 
-My name is Felipe, I'm financial engineering and math student at Duke. Interested in operations research, computational mathematics, and philosophy!
+My name is Felipe, I'm a financial engineering and math student at Duke. Interested in operations research, computational mathematics, and philosophy!
 
 ### 🔬 What I'm Currently Working On
 - **🧮 Student Researcher** — contributing to the Python redevelopment of Dr. Henri P. Gavin’s stochastic optimization and statistical analysis library for CEE251L. Check it out here:  **[Multivarious](https://github.com/hpgavin/multivarious)**.
