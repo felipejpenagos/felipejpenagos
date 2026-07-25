@@ -4,7 +4,7 @@
 My name is Felipe, I'm a financial engineering and math student at Duke. Interested in operations research, computational mathematics, and philosophy!
 
 ### 🔬 What I'm Currently Working On
-- **Student Researcher (Duke Pratt School of Engineering)** — contributing to the Python redevelopment of Dr. Henri P. Gavin’s stochastic optimization and statistical analysis library for CEE251L. Check it out here:  **[Multivarious](https://github.com/hpgavin/multivarious)**.
+- **Student Researcher (Duke Pratt School of Engineering)** — contributing to the Python redevelopment of Dr. Henri P. Gavin’s stochastic optimization and statistical analysis library for CEE251L. Check it out here,  **[Multivarious](https://github.com/hpgavin/multivarious)**!
   
 **🌐 Open to collaborating** on projects that apply theory to real-world challenges. Reach me at felipejpenagos@gmail.com
 
