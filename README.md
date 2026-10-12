@@ -36,7 +36,7 @@ Tests mean-variance and risk parity over 18 years of walk-forward rebalancing on
 
 #### Projects
 
-| Project | |
+| Project | Summary |
 |---|---|
 | [Options Data and a Covered-Call Book](https://github.com/felipejpenagos/fintech535) | LSEG option data, an implied price surface, and a Reg T covered-call backtest, published as live sites |
 | [StateDynamics Lab](https://github.com/felipejpenagos/StateDynamics-Lab) | A learned health score for firms and the interventions that improve it, via supervised learning and Q-learning |
