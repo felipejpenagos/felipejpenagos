@@ -21,7 +21,7 @@ Fits daily implied-volatility surfaces, decomposes their changes into level, ske
 <a href="https://github.com/felipejpenagos/Capstone-Research-Modeling-Market-Geometry/blob/main/research_geometric_markets.pdf">Paper</a> · <a href="https://github.com/felipejpenagos/Capstone-Research-Modeling-Market-Geometry">Repository</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/felipejpenagos/Portfolio-Optimization-Theory/blob/main/MPT_Alternatives_Research.pdf"><img src="https://raw.githubusercontent.com/felipejpenagos/Portfolio-Optimization-Theory/main/fig_3d_sharpe_surface.png" width="100%" alt="MVO, ERC, and RC-MVO in risk-return-Sharpe space"></a>
+<a href="https://github.com/felipejpenagos/Portfolio-Optimization-Theory/blob/main/MPT_Alternatives_Research.pdf"><img src="https://raw.githubusercontent.com/felipejpenagos/Markowitz-vs-Risk-Parity-Portfolio-Optimization/main/fig_cml.png" width="100%" alt="Mean-variance efficient frontier and capital market line"></a>
 <br>
 <b><a href="https://github.com/felipejpenagos/Portfolio-Optimization-Theory/blob/main/MPT_Alternatives_Research.pdf">Modern Portfolio Optimization Approaches</a></b>
 <br><sub>Mean-variance · Risk parity · QuantConnect · 2026</sub>
@@ -38,9 +38,8 @@ Tests mean-variance and risk parity over 18 years of walk-forward rebalancing on
 | Project | Summary |
 |---|---|
 | [Options Data and a Covered-Call Book](https://github.com/felipejpenagos/fintech535) | LSEG option data, an implied price surface, and a Reg T covered-call backtest, published as live sites |
-| [StateDynamics Lab](https://github.com/felipejpenagos/StateDynamics-Lab) | A learned health score for firms and the interventions that improve it, via supervised learning and Q-learning |
-| [Quantitative Risk Management](https://github.com/felipejpenagos/Quantitative-Risk-Management-Fintech545) | Covariance repair, VaR and ES, risk parity, attribution, and option pricing in Python |
 | [Water Supply Optimization](https://github.com/felipejpenagos/water-project-cee251l) | Fifty-year stochastic design of a drinking-water system under climate uncertainty |
+| [Quantitative Risk Management](https://github.com/felipejpenagos/Quantitative-Risk-Management-Fintech545) | Covariance repair, VaR and ES, risk parity, attribution, and option pricing in Python |
 | [Loan Default Prediction](https://github.com/felipejpenagos/Loan-Default-Prediction-with-ML) | A credit-risk pipeline built around an imbalanced dataset |
 
 **Tools:** Python (NumPy, pandas, SciPy, scikit-learn, PyTorch), MATLAB, C++, Git, Bloomberg, LSEG
