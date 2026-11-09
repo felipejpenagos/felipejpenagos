@@ -3,7 +3,6 @@
 Financial engineering and mathematics at Duke (B.S.E. Risk, Data, and Financial Engineering, December 2026). I build statistical and computational models for markets and risk.
 
 **Now**
-- Financial Engineering Intern at Massar Capital Management, a global macro hedge fund
 - Capstone research on how macroeconomic shocks propagate through financial systems, advised by Dr. Mark Borsuk and Dr. Peng Sun
 - Probability-distribution modules for [Multivarious](https://github.com/hpgavin/multivarious), Prof. Henri P. Gavin's open-source Python library for probability, optimization, and stochastic modeling
 
